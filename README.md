@@ -4,7 +4,7 @@ CODTECH Internship Task 2: API Testing with Postman - RESTful API testing for au
 
 ## 🎬 Live Demo
 
-**[View Interactive Demo](https://htmlpreview.github.io/?https://github.com/wasimahamadsamani/task-2-api-testing/blob/main/API-DEMO.html)**
+**[View Interactive Demo](https://htmlpreview.github.io/?https://github.com/Anjrag2308/task-2-api-testing/blob/main/API-DEMO.html)**
 
 ## Project Overview
 
